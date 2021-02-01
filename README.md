@@ -1,5 +1,5 @@
 Personal blog powered by jekyll.
-Theme by [Hux](github.com/Huxpro/huxpro.github.io).
+Theme by [Hux](https://github.com/Huxpro/huxpro.github.io).
 
 Plugins:
 - jekyll-feed
