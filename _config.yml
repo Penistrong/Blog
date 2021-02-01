@@ -114,3 +114,4 @@ exclude:
   - README.md
   - less
   - node_modules
+  - nohup.out
